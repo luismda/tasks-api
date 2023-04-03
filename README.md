@@ -1,13 +1,10 @@
 # Tasks API 
 
-Esse projeto é uma simples API de tarefas em Node.js, que permite criar, editar, deletar e listar tarefas. O objetivo principal foi desenvolver essas funcionalidades
-utilizando apenas os módulos internos do Node.js como o `http`, `fs` e o `crypto`.
+This project is a simple task API in **Node.js** that allows you to create, edit, delete and list tasks. The main objective was to develop these functionalities using only Node.js internal modules like `http`, `fs` and `crypto`.
 
-Além disso, essa API foi desenvolvida durante o primeiro desafio da trilha de Node.js do Ignite - programa de especialização no ecossistema JavaScript da 
-[**Rocketseat**](https://github.com/rocketseat-education).
+Also, this API was developed during the first challenge of Ignite Node.js trail - [**Rocketseat**](https://github.com/rocketseat-education) JavaScript ecosystem specialization program.
 
-No mais, pude aprender os principais fundamentos de uma API como rotas, métodos HTTP, headers de requisição e resposta, HTTP status code, request body,
-query params e route params, middlewares, além do funcionamento das streams e buffers dentro do Node.js.
+Furthermore, I was able to learn the main fundamentals of an API such as routes, HTTP methods, request and response headers, HTTP status code, request body, query params and route params, middleware, in addition to how streams and buffers work within Node.js.
 
 ##
 
